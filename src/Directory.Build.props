@@ -3,9 +3,9 @@
   <PropertyGroup>
     <Authors>Nick Dodd, Paul DeVito</Authors>
     <Product>AutoBogusLifesupport</Product>
-    <PackageProjectUrl>https://github.com/pdevito/AutoBogus</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/pdevito3/AutoBogus</PackageProjectUrl>
     <PackageIcon>logo.png</PackageIcon>
-    <RepositoryUrl>https://github.com/pdevito/AutoBogus</RepositoryUrl>
+    <RepositoryUrl>https://github.com/pdevito3/AutoBogus</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <LangVersion>latest</LangVersion>
